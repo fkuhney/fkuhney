@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Franchesca, a clinical psychology PhD student at UIC/the ADAPT lab at Northwestern University
-- 🧠 I’m interested in the developmental processes (environmental or neurobiological) responsible for atypical social functioning in psychosis/psychosis-risk            populations
+- 🧠 Research interests surround developmental processes (environmental or neurobiological) responsible for atypical social functioning in psychosis/psychosis-risk      populations
 - 🌱 R stats fan and aspiring acaficionado
 - Using GitHub to grow in my proficiency
 - 🐥 You can reach me via twitter (@fkuhney)!
