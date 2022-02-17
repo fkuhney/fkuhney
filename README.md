@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Franchesca, a clinical psychology PhD student at UIC/the ADAPT lab at Northwestern University
+- 👋 Hi, I’m Franchesca, a clinical psychology PhD student at the [University of Illinois Chicago](https://psch.uic.edu/research-programs/clinical/) & the [ADAPT lab](http://www.adaptprogram.com/) at Northwestern University
 - 🧠 Research interests surround developmental processes (environmental or neurobiological) responsible for atypical social functioning in psychosis/psychosis-risk      populations
 - 🌱 R stats fan and aspiring acaficionado
 - Using GitHub to grow in my proficiency
